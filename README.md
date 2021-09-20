@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marianog02
 - 👀 I’m interested in programming and simulation
 - 🌱 I’m currently learning elixir and go
-- 💞️ I’m looking to collaborate on Web Front End and Back End
+- 💞️ I’m looking to collaborate on Web Dev or Systems programming
 - 📫 You can reach me opening at marianolmgm@gmail.com
 
 <!---
